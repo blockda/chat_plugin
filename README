@@ -1,0 +1,3 @@
+Chat window plugin.
+
+Runs off of a generic trigger gaging and window retargeting. Any trigger can gag text and send it to a window.
